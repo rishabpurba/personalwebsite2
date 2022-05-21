@@ -1,0 +1,147 @@
+body{
+text-align: center;
+  margin:0px;
+
+}
+.top{
+  background-color: white;
+  padding-top: 100px;
+  margin:0px;
+
+  position: relative;
+}
+.middle{
+  text-align: center;
+position: relative;
+}
+.bottom{
+
+}
+h1{
+  display: inline-block;
+color: #66BFBF;
+margin: 0 auto;
+font-family:carattere, cursive;
+font-size: 4.5rem;
+position: relative;
+top: 15px;
+
+}
+h2
+{
+  color:#66BFBF ;
+  font-weight: normal;
+  font-size: 20px;
+}
+h3{
+  color:#11999E ;
+}
+.me{
+  font-family:barlow,sans-serif ;
+
+  }
+.topcloud{
+  position: absolute;
+  left: 350px;
+  top: 300px;
+
+
+
+}
+.bottomcloud{
+
+  position: absolute;
+  right: 400px;
+  top: 40px;
+}
+p{
+
+}
+.mountain{
+position: relative;
+right: 0;
+
+}
+.sun{
+  position: absolute;
+  left: 650px;
+  top: 280px;
+}
+.get{
+  font-weight: 600;
+  font-size: 1.5rem;
+  display: inline-block;
+  background-color: #1572A1;
+  color: white;
+  margin:15px;
+  padding: 5PX;
+
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-color: grey;
+  width: 5%;
+  margin-top: 20px;
+  border-width: 5px;
+
+
+}
+.footer-link{
+  color:#1572A1;
+  font-size: 1rem;
+}
+.bottom{
+  background-color: #66BFBF;
+}
+h4{
+  display: inline-block;
+  margin-left: 6px;
+  margin-right: 6px;
+}
+.chilly-img{
+  width: 20%;
+  float: right;
+  height:20%;
+  margin-left: 30px;
+
+}
+.skill-row{
+width: 75%;
+margin: 100px auto 100px auto;
+text-align: left;
+position: relative;
+display: table;
+
+
+}
+
+.skills{
+  text-align: center;
+
+  line-height: 2;
+}
+.computer-img{
+
+display: inline-block;
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+.my{
+font-family: oswald,sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+}
+.text{
+  width: auto;
+  height: auto;
+  margin: 0;
+
+}
+.text1{
+  width: auto;
+  height: auto;
+}
